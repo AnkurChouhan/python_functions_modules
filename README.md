@@ -1,4 +1,4 @@
-**Assignment 3: Module 4 – Functions and Modules in Python**
+# Assignment 3: Module 4 – Functions and Modules in Python
 
 ![Task 1 Output](assets/1.png)
 ## Task 1: Calculate Factorial Using a Function
